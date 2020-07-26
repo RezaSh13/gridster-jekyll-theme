@@ -1,7 +1,7 @@
 full_rebuild: true
 name: بلاگ شخصی - رضا شکری
 description: بلاگ شخصی - رضا شکری
-destination: System74
+destination: LittlePenguin
 url: #place url
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
